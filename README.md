@@ -1,10 +1,23 @@
 # PROG2015
 
-Ejercicios de programación correspondientes a la UD2, elementos de un programa. 
-
-Ejercicios para resolver con funciones.
+Ejercicios de programación correspondientes a la UD2, elementos de un programa, para resolver con funciones.
 
 - [Ejercicio 1 - ¡Hola mundo!](./01_holamundo/).
 - [Ejercicio 2 - ¡Hola \<nombre\>!](./02_holamundo_parametro/).
 - [Ejercicio 3 - Perímetro de un rectángulo](./03_perimetro_rectangulo/).
 - [Ejercicio 4 - Cambio de moneda](./04_calcular_cambio/).
+- [Ejercicio 5 - Par o impar](./05_par_impar/).
+- [Ejercicio 6 - Menú](./06_menu/).
+- [Ejercicio 7 - Área de un rombo](./07_area_rombo/).
+- [Ejercicio 8 - Convertir temperatura](./08_convertir_temperatura/).
+- [](.//).
+- [](.//).
+- [](.//).
+- [](.//).
+- [](.//).
+- [](.//).
+- [](.//).
+- [](.//).
+- [](.//).
+- [](.//).
+- [](.//).
