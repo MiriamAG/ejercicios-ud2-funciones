@@ -14,3 +14,6 @@ Ejercicios de programación correspondientes a la UD2, elementos de un programa,
 - [Ejercicio 10 - Cuadrado con sumas](./10_cuadrado_sumas/).
 - [Ejercicio 11 - Factorial](./11_factorial/).
 - [Ejercicio 12 - Fibonacci](./12_fibonacci/).
+- [Ejercicio 13 - Código morse](./13_morse/).
+- [Ejercicio 14 - Conversión de base](./14_conversion_base/).
+- [Ejercicio 15 - Letra del DNI](./15_letra_dni/).
