@@ -1,6 +1,6 @@
 # Ejercicio 6 - Calculadora
 
-Escribe una función que muestre al usuario un menú con las 
+Escribe un programa que muestre al usuario un menú con las 
 siguientes opciones:
 
 ```
