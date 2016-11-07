@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EscalaTemperaturasEnumeraciones.iml" filepath="$PROJECT_DIR$/EscalaTemperaturasEnumeraciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EscalaTemperaturaEnumeraciones.iml" filepath="$PROJECT_DIR$/EscalaTemperaturaEnumeraciones.iml" />
     </modules>
   </component>
 </project>
